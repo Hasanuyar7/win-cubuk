@@ -90,7 +90,7 @@ MONITOR_DEFAULT_TO_PRIMARY = 1
 # ============================================================
 # 🔑 GROQ API ANAHTARI
 # ============================================================
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""
 GROQ_MODELS = [
     "llama-3.1-8b-instant",
     "meta-llama/llama-4-scout-17b-16e-instruct",
